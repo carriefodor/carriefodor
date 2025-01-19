@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--
-**carriefodor/carriefodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on my Masters Degree at USC's Iovine and Young Academy.
 - 🌱 I’m currently learning about connected objects, IoT, and physical computing.
 - 👯 I’m looking to collaborate on creative ideas for connected objects.
